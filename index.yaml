@@ -3,10 +3,10 @@ entries:
   nxrm-ha-aws:
   - apiVersion: v2
     appVersion: 3.50.0
-    created: "2023-04-19T21:36:08.3700061-04:00"
+    created: "2023-04-20T11:35:22.1390769-04:00"
     description: Resilient AWS Deployment of Sonatype Nexus Repository - Universal
       Binary repository
-    digest: a0dfffd1ea6ee32e15665b460cf894447cdde7d4ae15cec449c1d5cbc6e76022
+    digest: 49d09f7830359aeedb827d74dc57e422526e0422eb1c589cb51c08b2537e623e
     home: https://www.sonatype.com/nexus-repository-oss
     icon: https://sonatype.github.io/helm3-charts/NexusRepo_Vertical.svg
     keywords:
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://vswaminathan777.github.io/nexusrepositoryha/nxrm-ha-aws-50.0.0.tgz
     version: 50.0.0
-generated: "2023-04-19T21:36:08.3690062-04:00"
+generated: "2023-04-20T11:35:22.1380344-04:00"
